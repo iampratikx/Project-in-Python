@@ -23,8 +23,8 @@ You play against the computer, and the winner is decided based on the rules belo
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iampratikx/Project-in-Python/Project 1
-   cd Project 1
+git clone https://github.com/iampratikx/Project-in-Python/Project 1
+cd Project 1
    
 
 Project 2 # 🎯 The Perfect Guess - Number Guessing Game
@@ -45,8 +45,8 @@ and you have to guess it in the fewest attempts possible.
 ## 📦 Installation
 1. Clone the repository:
    ```bash
- git clone https://github.com/iampratikx/Project-in-Python/Project 2
-   cd Project 2
+git clone https://github.com/iampratikx/Project-in-Python/Project 2
+cd Project 2
 
 
 Project 3 # Jarvis - Personal AI Assistant 🤖
@@ -82,8 +82,8 @@ It listens for the wake word **“Jarvis”** and can execute commands such as o
 ## 📦 Installation
 1. Clone this repository:
    ```bash
-    git clone https://github.com/iampratikx/Project-in-Python/Project 3 - Jarvis
-   cd Project 3 - Jarvis
+git clone https://github.com/iampratikx/Project-in-Python/Project 3 - Jarvis
+cd Project 3 - Jarvis
 
 Project 4 # 🤖 Chat Auto-Responder Bot
 
@@ -119,5 +119,5 @@ The bot can:
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iampratikx/Project-in-Python/Project 4 - Auto-Reply Bot
-   cd Project 4 - Auto-Reply Bot
+git clone https://github.com/iampratikx/Project-in-Python/Project 4 - Auto-Reply Bot
+cd Project 4 - Auto-Reply Bot
