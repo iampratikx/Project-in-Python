@@ -23,7 +23,7 @@ You play against the computer, and the winner is decided based on the rules belo
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-git clone https://github.com/iampratikx/Project-in-Python/Project 1
+git clone https://github.com/iampratikx/Project-in-Python/Project-1
 cd Project 1
    
 
